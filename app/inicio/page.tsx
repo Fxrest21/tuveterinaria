@@ -5,7 +5,6 @@ export default function Home() {
       <nav className="bg-[#D1FAFF] py-3 px-6 flex justify-between items-center sticky top-0 z-50">
         <div className="flex items-center space-x-2">
           <img src="/logo.png" alt="Logo" className="h-8" />
-          <span className="text-sky-900 text-xl font-semibold">Tu<span className="text-sky-600">/veterinaria</span></span>
         </div>
         <div className="space-x-4 text-sm text-[#4BB5E7] hidden md:flex">
           <a
